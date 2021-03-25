@@ -1,0 +1,66 @@
+.login {
+    height: auto;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right:200px;
+    padding-top: 20px;
+  
+}
+.login__container {
+    width: 450px;
+    margin: 0 auto;
+}
+.login__form {
+    margin-top: 30px;
+    padding: 10px 50px;
+    background-color: white;
+    margin-bottom: 10px;
+
+
+}
+.body{
+    height: auto;
+}
+.with__container {
+    width: 450px;
+    margin: 0 auto;
+}
+.with {
+    height: auto;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.with__form {
+    padding: 10px 50px;
+    background-color: white;
+
+}
+.signup__container {
+    width: 450px;
+    margin: 0 auto;
+}
+.signup{
+    height: auto;
+    margin-top: 15px;
+}
+.signup1 {
+    height: auto;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right:200px;
+    padding-top: 20px;
+  
+}
+.signup1__container {
+    width: 450px;
+    margin: 0 auto;
+}
+.signup1__form {
+    margin-top: 30px;
+    padding: 10px 50px;
+    background-color: white;
+
+}
+.body{
+    background-color:#F2F2F2;
+}

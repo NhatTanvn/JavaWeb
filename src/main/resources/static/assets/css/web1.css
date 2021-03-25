@@ -1,0 +1,132 @@
+body{
+    background:white;;
+    overflow-y: scroll;
+}
+body {
+    height: auto;
+    width: auto;
+}
+ol,ul {
+    list-style: none
+}
+.text{
+    float: none;
+    width:350px;
+    height: auto;
+    background-color: rgba(0, 255, 255, 0.5);
+    font-size: 15px;
+
+}
+.slogan{
+    font-size: 20px;
+    
+}
+a.nav-link{
+
+    margin-right: 10px;
+}
+.page{
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    background-color: white;
+}
+.popular{
+    width: 450x;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: auto;
+    margin-top: 20px;
+}
+p.outset {
+   
+    width: 306px;
+    height: 50px;
+    border-bottom: 1px solid black;
+    
+}
+.outset{
+    font-size: 30px;
+}
+.top{
+    margin-top: 5px;
+    height: 200px;  
+}
+.list{
+    width: 900px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.BooksList{
+    width: 1000px;
+    height: auto;
+    background-color:#FFFFFF; 
+    list-style-type: none;
+    margin-left: 30px;
+}
+.name{
+    size: 150px;
+    
+}
+center{
+    margin-right: 100px;
+}
+.nav{
+    margin-left:16px;
+    color:#BBB;
+}
+.nav1{
+    margin-left:16px;   
+}
+.link{
+    margin-left: 16px;
+}
+.fooder{
+    height: auto;
+    width: 1100px;
+    margin-top: 20px;
+    background-color:rgb(234,140,182);
+   
+}
+.new2{
+    width: 450px;
+}
+.new3{
+    width: 115px;
+}
+.row{
+    margin-left: 50px;
+}
+.dt{
+    height: 250px;
+}
+.slideshow-container{
+    height: 250px;
+}
+.mySlides{
+    height: 250px;
+}
+.info{
+    margin-top: 20px;
+}
+.lc{
+    margin-left: 80px;
+}
+.news{
+    width: 20x;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: auto;
+    margin-top: 20px;
+}
+.new4{
+    width: 90px;
+}
+.tainguyen{
+    background-color:#FFCCCc;
+    width: 310  px;
+}
+ul, ol,a {
+    list-style: none;
+    }
